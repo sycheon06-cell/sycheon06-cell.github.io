@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Private QR Maker logo</title>
+  <desc id="desc">A simple teal QR code mark inside a rounded square.</desc>
+  <rect width="64" height="64" rx="14" fill="#e7f5f2"/>
+  <rect x="1.5" y="1.5" width="61" height="61" rx="12.5" fill="none" stroke="#a9d8d1" stroke-width="3"/>
+  <rect x="13" y="13" width="14" height="14" rx="3" fill="#0f766e"/>
+  <rect x="37" y="13" width="14" height="14" rx="3" fill="#172033"/>
+  <rect x="13" y="37" width="14" height="14" rx="3" fill="#0f766e" opacity=".72"/>
+  <rect x="37" y="37" width="6" height="6" rx="1.5" fill="#0f766e"/>
+  <rect x="45" y="37" width="6" height="14" rx="1.5" fill="#0f766e" opacity=".55"/>
+  <rect x="37" y="45" width="6" height="6" rx="1.5" fill="#172033"/>
+  <path d="M30 18h4v8h-4zM18 30h16v4H18zM30 38h4v8h-4zM38 30h8v4h-8z" fill="#0b5d57" opacity=".9"/>
+</svg>
