@@ -1,0 +1,19 @@
+{
+  "name": "Private QR Maker",
+  "short_name": "QR Maker",
+  "description": "브라우저 안에서 QR 코드를 생성하는 설치형 정적 웹 도구입니다.",
+  "lang": "ko",
+  "start_url": "/gr-make/",
+  "scope": "/gr-make/",
+  "display": "standalone",
+  "background_color": "#eef3f6",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
