@@ -1,4 +1,4 @@
-const CACHE_NAME = 'private-qr-maker-v1';
+const CACHE_NAME = 'private-qr-maker-v2';
 const ASSETS = [
   './',
   './index.html',
